@@ -1,6 +1,8 @@
-$base_color : #454545;
-$base-dark-color: #575757;
-$base-light-color: #64646E;
-$base-highlight-color: #7B7B7B;
+$base_color : dynamic(#454545);
+$base-dark-color: dynamic(#575757);
+$base-light-color: dynamic(#64646E);
+$base-highlight-color: dynamic(#7B7B7B);
+
+$body-color-var: dynamic(#4C4C54);
 
 $light-color: dynamic(#fff);
