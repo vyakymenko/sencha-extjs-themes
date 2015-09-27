@@ -5,3 +5,12 @@ $grid-column-header-font-weight: dynamic($font-weight-bold);
 $grid-column-header-color: dynamic(#666);
 
 $grid-column-header-focus-border-color: dynamic(mix($grid-header-background-color, $base-color, 20%));
+
+
+$grid-row-cell-selected-background-color: dynamic($body-color-var);
+$grid_cell_selected_background_color: dynamic($body-color-var);
+
+$grid_cell_selected_color: dynamic($light-color);
+$grid_row_cell_selected_color: dynamic($light-color);
+$grid_row_cell_focus_color : dynamic($light-color);
+$grid_row_cell_focus_border_color : dynamic($light-color);
