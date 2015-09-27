@@ -1,0 +1,15 @@
+/** @class Ext.tab.Tab */
+//
+
+$tab-base-color: dynamic($base-dark-color);
+$tab-base-color-focus: dynamic($base-light-color);
+$tab-base-color-over: dynamic($base-light-color);
+$tab-base-color-focus-over: dynamic($base-light-color);
+$tab-base-color-focus-active: dynamic($base-highlight-color);
+$tab-base-color-active: dynamic($base-highlight-color);
+
+$tab-border-color: dynamic($light-color);
+$tab-border-color-focus: dynamic($light-color);
+$tab-border-color-over: dynamic($light-color);
+$tab-border-color-active: dynamic($light-color);
+$tab-border-color-disabled: dynamic($tab-border-color);
