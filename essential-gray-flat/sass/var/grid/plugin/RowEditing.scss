@@ -7,3 +7,7 @@ $grid-row-editor-border-color: dynamic($neutral-color);
 $grid-row-editor-field-spacing: dynamic(5px);
 $grid-row-editor-button-spacing: dynamic(5px);
 $grid-row-editor-button-container-padding: dynamic(5px);
+
+
+$grid_cell_selected_color : dynamic($light-color);
+$grid_row_cell_selected_color : dynamic($light-color);

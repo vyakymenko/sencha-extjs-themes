@@ -13,3 +13,18 @@ $tab-border-color-focus: dynamic($light-color);
 $tab-border-color-over: dynamic($light-color);
 $tab-border-color-active: dynamic($light-color);
 $tab-border-color-disabled: dynamic($tab-border-color);
+
+$tab_color_active : dynamic($light-color);
+$tab_color_focus_active : dynamic($light-color);
+$tab_glyph_color_active : dynamic($light-color);
+$tab_plain_color_active : dynamic($light-color);
+$tab_plain_color_focus_active : dynamic($light-color);
+$tab_plain_glyph_color_active : dynamic($light-color);
+$tab_plain_glyph_color_focus_active : dynamic($light-color);
+$tab_plain_color_focus_over : dynamic($light-color);
+$tab_plain_color_disabled : dynamic($neutral_light_color);
+$tab_plain_color_focus : dynamic($neutral_light_color);
+$tab_plain_color_over : dynamic($neutral_light_color);
+$tab_plain_glyph_color_disabled : dynamic($neutral_light_color);
+
+$tab_plain_color: dynamic($light-color);
