@@ -1,5 +1,7 @@
 # Sencha ExtJS Themes
 
+[![Join the chat at https://gitter.im/vyakymenko/sencha-extjs-themes](https://badges.gitter.im/vyakymenko/sencha-extjs-themes.svg)](https://gitter.im/vyakymenko/sencha-extjs-themes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is free themes for Sencha ExtJS UI. Themes list:
 
   - Essential Gray Flat
